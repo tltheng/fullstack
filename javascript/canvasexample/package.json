@@ -1,0 +1,14 @@
+{
+  "name": "canvasexample",
+  "version": "1.0.0",
+  "description": "Playing around with Canvas",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lay",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
